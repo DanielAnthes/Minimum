@@ -1,0 +1,7 @@
+id = "minimum"
+name = "Minimum"
+version = "0.0.1"
+schema_version = 1
+authors = ["Daniel Anthes"]
+description = "Minimum"
+repository = "https://github.com/your-name/my-zed-extension"
